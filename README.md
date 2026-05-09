@@ -1,3 +1,3 @@
 # KatifetchOS
 
- Debian-based OS (Sid/Forky) optimized for modern hardware, pre-configured with Katifetch and custom system tweaks 
+A custom Linux distribution based on Debian Sid, featuring native integration of the Katifetch system information tool. Built and optimized for modern hardware like the Wezen 2023.
